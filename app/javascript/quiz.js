@@ -26,6 +26,14 @@ const quiz = [
       'ライカールト'
     ],
     correct: 'クライフ'
+  },{
+    question: 'FCバルセロナのサッカー哲学を植え付けた人物といえば誰?',
+    answers: [
+      'クライフ',
+      'マラドーナ',
+      'メッシ',
+      'ライカールト'
+    ],
   }
 ];
 const quizLength = quiz.length;
